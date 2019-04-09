@@ -1,0 +1,101 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/gapi" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/gapi.auth2" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/lodash" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jquery-3.2.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.2.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.2.1.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/Cromwell_Config_setup-1.0-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_cloud-0.32.0-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_auth-1.4.1-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_api_python_client-1.6.7-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_cloud_storage-1.6.0-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_cloud_resource_manager-0.28.1-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_cloud_core-0.28.1-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_api_core-0.1.4-py2.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1199944087" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/Cromwell_Config_setup-1.0-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_cloud-0.32.0-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_auth-1.4.1-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_api_python_client-1.6.7-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_cloud_storage-1.6.0-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_cloud_resource_manager-0.28.1-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_cloud_core-0.28.1-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/google_api_core-0.1.4-py2.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1199944087" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.12.6" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.6.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.6.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.6.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.6-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
